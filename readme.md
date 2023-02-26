@@ -1,8 +1,9 @@
 
 ## Profile
  - Best of the Best 9th Vulnerability Analysis
- - 우아한테크코스 5th Android OS
+ - wooteco 5th Android OS
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=re4rk&theme=dark&show_icons=true)
 ## Stacks
 <span>
 <div align='center'><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
