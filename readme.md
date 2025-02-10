@@ -1,6 +1,6 @@
 
 ## Profile
- - BoB (Best of the Best) 9기 취약점 분석
+ - BoB (Best of the Best) 9기
  - 우아한테크코스 5기
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=re4rk&theme=dark&show_icons=true)
